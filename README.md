@@ -8,7 +8,7 @@ This repository serves as a backup and reference for the community to help prese
 
 ## 🎮 Play the Game on Roblox
 
-[Play VoxelBlox on Roblox](https://www.roblox.com/games/your-game-id-here)
+[Play VoxelBlox on Roblox](https://www.roblox.com/share?code=ad9016009fb96144b6e4ec1ebd7f9a52&type=ExperienceDetails&stamp=1759798368481)
 
 ---
 
